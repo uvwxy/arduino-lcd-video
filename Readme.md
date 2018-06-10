@@ -1,6 +1,6 @@
 # Arduino LCD Video
 ## About
-This repository contains a script to convert a video file into a series of ditheres bitmaps that can be played as a short clip via Arduino.
+This repository contains a script to convert a video file into a series of dithered bitmaps that can be played as a short clip via Arduino.
 
 ## Demo:
 Using the the file `konredus-techlab.mp4` (the intro of [https://www.youtube.com/watch?v=RouVbZltVII](https://www.youtube.com/watch?v=RouVbZltVII)), we get the following:
